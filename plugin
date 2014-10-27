@@ -1,0 +1,3 @@
+     plugin on xml file in res res/xml
+     
+     <plugin name="Echo" value="com.suguna.iexpensive.activity.Echo"/>
