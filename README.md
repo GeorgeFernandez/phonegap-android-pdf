@@ -18,6 +18,8 @@ step 4) create html file
 
 Plugin
 ====================
+put this plugin on res/xml
 
- <plugin name="Echo" value="com.George.iexpense.activity.Echo"/>
+
+ plugin name="Echo" value="com.George.iexpense.activity.Echo"
 
