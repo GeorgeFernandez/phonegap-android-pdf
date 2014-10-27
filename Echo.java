@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.George.iexpensive.activity;
+package com.George.iexpense.activity;
 
 import java.io.File;
 import org.apache.cordova.api.CallbackContext;
