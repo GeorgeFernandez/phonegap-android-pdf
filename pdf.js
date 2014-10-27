@@ -5,7 +5,7 @@ window.echo = function(str, callback) {
 };
 
 function myshow() {
-    window.echo("/sdcard/download/HR_Guidelines.pdf", function(returnvalue) {
+    window.echo("/sdcard/download/HR_Geo.pdf", function(returnvalue) {
         alert(returnvalue);
     });
 }
