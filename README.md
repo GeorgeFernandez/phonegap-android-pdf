@@ -13,3 +13,11 @@ step 3) create  js file
 
 
 step 4) create html file
+
+
+
+Plugin
+====================
+
+ <plugin name="Echo" value="com.George.iexpense.activity.Echo"/>
+
